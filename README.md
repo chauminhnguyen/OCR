@@ -4,7 +4,7 @@ This Jupiter Notebook includes:
 
   Text Detection:
   
-    CRAFT: (https://github.com/clovaai/CRAFT-pytorch)[PlDb]
+    CRAFT: [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch)
     
   Text Recognition:
   
